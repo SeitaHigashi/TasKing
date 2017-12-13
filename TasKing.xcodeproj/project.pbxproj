@@ -187,6 +187,9 @@
 		3B91D13B1FC9570500E88383 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					"１",
+				);
 				LastSwiftUpdateCheck = 0910;
 				LastUpgradeCheck = 0910;
 				ORGANIZATIONNAME = "東誠太";
